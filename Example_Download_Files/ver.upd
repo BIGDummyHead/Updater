@@ -3,5 +3,5 @@
 	"version" : "1.0.0.0",
 	"versionName" : "Release",
 	"desc" : "The first release of the product.",
-	"files" : [ "https://github.com/BIGDummyHead/Updater/raw/main/update.zip" ]
+	"files" : [ "https://github.com/BIGDummyHead/Updater/raw/main/Example_Download_Files/update.zip" ]
 }
